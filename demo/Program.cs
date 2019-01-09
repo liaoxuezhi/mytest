@@ -6,7 +6,10 @@ namespace demo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("你好!");
             Console.WriteLine("Hello World!");
+
+            Console.ReadKey();
         }
     }
 }
